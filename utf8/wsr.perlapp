@@ -1,0 +1,36 @@
+#!D:\Program Files\ActiveState Perl Dev Kit 9.1\bin\perlapp-gui.exe
+PAP-Version: 1.0
+Packer: D:\Program Files\ActiveState Perl Dev Kit 9.1\bin\perlapp.exe
+Script: wsr.pl
+Cwd: E:\work\perl\hdwiki\utf8
+Add: Encode::CN::
+Add: RPC::XML::Parser
+Add: RPC::XML::Parser::XMLParser
+Clean: 0
+Date: 2011-08-31 14:24:39
+Debug: 
+Dependent: 0
+Dyndll: 0
+Exe: wsr.exe
+Force: 0
+Gui: 0
+Hostname: debenson
+Manifest: 
+No-Compress: 0
+No-Logo: 0
+Runlib: 
+Shared: none
+Tmpdir: 
+Verbose: 0
+Version-Comments: 
+Version-CompanyName: Heading
+Version-FileDescription: 
+Version-FileVersion: 0.1
+Version-InternalName: 
+Version-LegalCopyright: Debenson All rights reserved.
+Version-LegalTrademarks: 
+Version-OriginalFilename: WSR
+Version-ProductName: Weekly Status Report tool(WSR)
+Version-ProductVersion: 0.1
+Warnings: 0
+Xclude: 0
